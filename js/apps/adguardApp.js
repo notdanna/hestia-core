@@ -8,7 +8,7 @@ export class AdGuardApp extends BaseApp {
             <div class="app-content app-type-pihole">
                 <div class="pihole-header">
                     <div style="display:flex; align-items:center; gap:8px;">
-                        <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_logo.svg" style="width:16px;">
+                        <img src="assets/adguard.svg" style="width:16px;">
                         <span class="ph-title">ADGUARD HOME</span>
                     </div>
                     <div class="ph-status-wrapper">
