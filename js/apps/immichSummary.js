@@ -26,7 +26,7 @@ export function initSummary(el, config) {
 
     return async () => {
         const cleanBase = url.endsWith('/') ? url.slice(0, -1) : url;
-        const targetUrl = `${cleanBase}/api/server-info/statistics`;
+        const targetUrl = `${cleanBase}/api/server/statistics`;
 
         const data = await fetchImmich(targetUrl, apiKey);
 
