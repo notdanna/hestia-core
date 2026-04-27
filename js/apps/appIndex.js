@@ -13,5 +13,5 @@ import './rssApp.js';
 import './matrixApp.js';
 import './pipesApp.js';
 import './fetchApp.js';
-import './adguardApp.js';
 import './immichApp.js';
+import './adguardApp.js';
